@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\econo\\OneDrive\\Desktop\\INTERNSHIP\\Mars_HannahN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18679E38-D012-412D-A23E-FB3CDEFD6206}|Mars_HannahN\\Mars_HannahN.csproj|c:\\users\\econo\\onedrive\\desktop\\internship\\mars_hannahn\\mars_hannahn\\pages\\languagepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18679E38-D012-412D-A23E-FB3CDEFD6206}|Mars_HannahN\\Mars_HannahN.csproj|solutionrelative:mars_hannahn\\pages\\languagepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18679E38-D012-412D-A23E-FB3CDEFD6206}|Mars_HannahN\\Mars_HannahN.csproj|c:\\users\\econo\\onedrive\\desktop\\internship\\mars_hannahn\\mars_hannahn\\tests\\language_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18679E38-D012-412D-A23E-FB3CDEFD6206}|Mars_HannahN\\Mars_HannahN.csproj|solutionrelative:mars_hannahn\\tests\\language_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18679E38-D012-412D-A23E-FB3CDEFD6206}|Mars_HannahN\\Mars_HannahN.csproj|c:\\users\\econo\\onedrive\\desktop\\internship\\mars_hannahn\\mars_hannahn\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18679E38-D012-412D-A23E-FB3CDEFD6206}|Mars_HannahN\\Mars_HannahN.csproj|solutionrelative:mars_hannahn\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18679E38-D012-412D-A23E-FB3CDEFD6206}|Mars_HannahN\\Mars_HannahN.csproj|c:\\users\\econo\\onedrive\\desktop\\internship\\mars_hannahn\\mars_hannahn\\tests\\skill_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18679E38-D012-412D-A23E-FB3CDEFD6206}|Mars_HannahN\\Mars_HannahN.csproj|solutionrelative:mars_hannahn\\tests\\skill_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18679E38-D012-412D-A23E-FB3CDEFD6206}|Mars_HannahN\\Mars_HannahN.csproj|c:\\users\\econo\\onedrive\\desktop\\internship\\mars_hannahn\\mars_hannahn\\pages\\skillpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18679E38-D012-412D-A23E-FB3CDEFD6206}|Mars_HannahN\\Mars_HannahN.csproj|solutionrelative:mars_hannahn\\pages\\skillpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LanguagePage.cs",
+              "DocumentMoniker": "C:\\Users\\econo\\OneDrive\\Desktop\\INTERNSHIP\\Mars_HannahN\\Mars_HannahN\\Pages\\LanguagePage.cs",
+              "RelativeDocumentMoniker": "Mars_HannahN\\Pages\\LanguagePage.cs",
+              "ToolTip": "C:\\Users\\econo\\OneDrive\\Desktop\\INTERNSHIP\\Mars_HannahN\\Mars_HannahN\\Pages\\LanguagePage.cs",
+              "RelativeToolTip": "Mars_HannahN\\Pages\\LanguagePage.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwDIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T01:57:29.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SkillPage.cs",
+              "DocumentMoniker": "C:\\Users\\econo\\OneDrive\\Desktop\\INTERNSHIP\\Mars_HannahN\\Mars_HannahN\\Pages\\SkillPage.cs",
+              "RelativeDocumentMoniker": "Mars_HannahN\\Pages\\SkillPage.cs",
+              "ToolTip": "C:\\Users\\econo\\OneDrive\\Desktop\\INTERNSHIP\\Mars_HannahN\\Mars_HannahN\\Pages\\SkillPage.cs",
+              "RelativeToolTip": "Mars_HannahN\\Pages\\SkillPage.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T01:47:31.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\econo\\OneDrive\\Desktop\\INTERNSHIP\\Mars_HannahN\\Mars_HannahN\\Pages\\LoginPage.cs",
+              "RelativeDocumentMoniker": "Mars_HannahN\\Pages\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\econo\\OneDrive\\Desktop\\INTERNSHIP\\Mars_HannahN\\Mars_HannahN\\Pages\\LoginPage.cs",
+              "RelativeToolTip": "Mars_HannahN\\Pages\\LoginPage.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T01:47:02.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Skill_Tests.cs",
+              "DocumentMoniker": "C:\\Users\\econo\\OneDrive\\Desktop\\INTERNSHIP\\Mars_HannahN\\Mars_HannahN\\Tests\\Skill_Tests.cs",
+              "RelativeDocumentMoniker": "Mars_HannahN\\Tests\\Skill_Tests.cs",
+              "ToolTip": "C:\\Users\\econo\\OneDrive\\Desktop\\INTERNSHIP\\Mars_HannahN\\Mars_HannahN\\Tests\\Skill_Tests.cs",
+              "RelativeToolTip": "Mars_HannahN\\Tests\\Skill_Tests.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAASwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T01:46:12.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Language_Tests.cs",
+              "DocumentMoniker": "C:\\Users\\econo\\OneDrive\\Desktop\\INTERNSHIP\\Mars_HannahN\\Mars_HannahN\\Tests\\Language_Tests.cs",
+              "RelativeDocumentMoniker": "Mars_HannahN\\Tests\\Language_Tests.cs",
+              "ToolTip": "C:\\Users\\econo\\OneDrive\\Desktop\\INTERNSHIP\\Mars_HannahN\\Mars_HannahN\\Tests\\Language_Tests.cs",
+              "RelativeToolTip": "Mars_HannahN\\Tests\\Language_Tests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T01:45:58.843Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
